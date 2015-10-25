@@ -17,13 +17,12 @@
 
 
 * `this.props`: the properties, which can be assigned through html properties. This is **immutable**
- * `<Parent name="steven">`
+ * `<Owner name="steven">`
    * `this.props.name==="steven"*`
- * `this.props.children`: this is the children DOM(Node)
-
+ * `this.props.ownew`: this is the ownee DOM(Node)
 
 ### Concept: Inverse Data Flow
-* Parents will pass `onChange` callback to child component. Child component can use the callbacl to pass the data to parent component.
+* Owners will pass `onChange` callback to child component. Child component can use the callback to pass the data to the owner component.
 
 ### Syntax: Handling html event
 * `<form onSumbit={this.<functionName>}>`
