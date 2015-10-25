@@ -22,7 +22,7 @@
  * `this.props.ownew`: this is the ownee DOM(Node)
 
 ### Concept: Inverse Data Flow
-* Owners will pass `onChange` callback to child component. Child component can use the callback to pass the data to the owner component.
+* Owners will pass `onChange` callback to ownee component.  Ownee component can use the callback to pass the data to the owner component.
 
 ### Syntax: Handling html event
 * `<form onSumbit={this.<functionName>}>`
