@@ -9,7 +9,6 @@
    * [Angular Specialty](Angular/angularspecialty.md)
 * [React.js](React/reactjs.md)
    * [Forgettable Detail](React/forgettable_detail.md)
-   * [Related Project](React/React/related_project.md)
    * [Prop and State](React/prop_and_state.md)
    * [00Getting Started](React/00getting_started.md)
 * [Unit Testing](unit_testing.md)
