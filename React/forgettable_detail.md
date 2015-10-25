@@ -19,3 +19,7 @@ React.render(
 
 ```
 - Each `React.render` or `React.createClass` can only put single `＜div></div>`. Rationale should be checked.
+
+###  Syntax:Copy props (spread syntax)
+* `var props = {...this.props};`: `this.props` is copied to `var props`
+
