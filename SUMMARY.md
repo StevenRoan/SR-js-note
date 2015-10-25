@@ -8,6 +8,7 @@
    * [Two-Way Data Binding](Angular/data-binding.md)
    * [Angular Specialty](Angular/angularspecialty.md)
 * [React.js](React/reactjs.md)
+   * [Dependencies Management](React/dependencies-management.md)
    * [Forgettable Detail](React/forgettable_detail.md)
    * [Prop and State](React/prop_and_state.md)
    * [00Getting Started](React/00getting_started.md)
